@@ -1,6 +1,6 @@
 # Laravel Complete Blog Development
 #### Project Key Matrics
-- Laravel v7.0
+- Laravel Framwork 
 - Frontend Template [(MiniBlog by Colorlib)](https://colorlib.com/wp/template/miniblog/)
 - Admin Template [(Admin LTE 3)](https://adminlte.io/themes/dev/AdminLTE/index.html)
 
